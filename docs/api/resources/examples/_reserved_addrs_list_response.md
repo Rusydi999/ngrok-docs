@@ -8,12 +8,12 @@
 	"reserved_addrs": [
 		{
 			"addr": "1.tcp.ngrok.io:20000",
-			"created_at": "2025-01-29T21:09:51Z",
+			"created_at": "2025-02-17T10:08:39Z",
 			"description": "SSH for device #001",
 			"endpoint_configuration": null,
-			"id": "ra_2sJsPxA4aL1bIrcFW3lXzY2q6uA",
+			"id": "ra_2tAFLur5nzFRxj8BiZMR3k4aXx6",
 			"region": "us",
-			"uri": "https://api.ngrok.com/reserved_addrs/ra_2sJsPxA4aL1bIrcFW3lXzY2q6uA"
+			"uri": "https://api.ngrok.com/reserved_addrs/ra_2tAFLur5nzFRxj8BiZMR3k4aXx6"
 		}
 	],
 	"uri": "https://api.ngrok.com/reserved_addrs"
